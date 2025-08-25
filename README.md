@@ -38,4 +38,4 @@ Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Rob
 
 ---
 
-<img src="https://media1.tenor.com/m/sj0W7isLbPwAAAAd/savuz-shrug.gif" width="300">  
+<img src="https://media1.tenor.com/m/sj0W7isLbPwAAAAd/savuz-shrug.gif" width="80%">  
