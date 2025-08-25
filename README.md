@@ -1,4 +1,5 @@
-﻿### ¡Hola! <a href="https://www.uchile.cl/"><img src="https://media1.tenor.com/m/WnU_v-bjh6IAAAAC/sebastian-built-different.gif" width="8%"></a>  
+﻿### ¡Hola! 
+<a href="https://www.uchile.cl/"><img src="https://media1.tenor.com/m/WnU_v-bjh6IAAAAC/sebastian-built-different.gif" width="80%"></a>  
 Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile ⚡.  
 
 Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Robótica, y sigo aprendiendo cada día 🚀  
@@ -37,4 +38,4 @@ Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Rob
 
 ---
 
-<img src="https://media1.tenor.com/m/sj0W7isLbPwAAAAd/savuz-shrug.gif" width="60">  
+<img src="https://media1.tenor.com/m/sj0W7isLbPwAAAAd/savuz-shrug.gif" width="300">  
