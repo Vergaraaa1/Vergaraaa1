@@ -1,4 +1,4 @@
-﻿### ¡Hola a todos! <a href="https://www.uchile.cl/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>  
+﻿### ¡Hola! <a href="https://www.uchile.cl/"><img src="https://media.tenor.com/PbPvnN7k5VgAAAAC/sebastian-built-different-tom-cruise.gif" width="8%"></a>  
 Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile ⚡.  
 
 Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Robótica, y sigo aprendiendo cada día 🚀  
@@ -11,12 +11,12 @@ Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Rob
 ---
 
 **👨‍💻 Sobre mí**
-- 🎓 Estudiante de 5° año de **Ingeniería Civil Eléctrica** en la Universidad de Chile  
-- 👨‍🏫 Profesor Auxiliar en **Preuniversitario Summa Cum Laude** desde 2021  
-- ✨ Profesor voluntario en **Enseña Chile** (talleres de matemáticas)  
+- 🎓 Estudiante de 5° año de **Ingeniería Civil Eléctrica** en la Universidad de Chile   
 - 🌎 Alto manejo del inglés, tanto escrito como oral  
 - 🤖 Apasionado por la **Robótica, la Inteligencia Artificial y la Programación**  
 - 📚 Motivado por desarrollar soluciones innovadoras con tecnología  
+
+---
 
 **🛠️ Lenguajes y Herramientas**
 
@@ -33,9 +33,8 @@ Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Rob
 **📫 Contáctame**
 - ✉️ Email: [st.vergarag@gmail.com](mailto:st.vergarag@gmail.com)  
 - 💻 GitHub: [Vergaraaa1](https://github.com/Vergaraaa1)  
-- 🌐 LinkedIn: [Sebastián Vergara](https://www.linkedin.com/in/sebastian-vergara-garnham-6407032a6/) 
+- 🌐 LinkedIn: [Sebastián Vergara](https://www.linkedin.com/in/sebastian-vergara-garnham-6407032a6/)  
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>Me encanta conocer gente nueva.</b> ¡Si quieres saludar, estaré feliz de conversar! 😊</em>
+<img src="https://tenor.com/es-US/view/savuz-shrug-gif-26269272" width="60">  
