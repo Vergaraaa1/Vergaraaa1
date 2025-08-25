@@ -1,8 +1,10 @@
 ﻿### ¡Hola! 
-<a href="https://www.uchile.cl/"><img src="https://media1.tenor.com/m/WnU_v-bjh6IAAAAC/sebastian-built-different.gif" width="80%"></a>  
-Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile ⚡.  
+Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile.
 
-Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Robótica, y sigo aprendiendo cada día 🚀  
+<a href="https://www.uchile.cl/"><img src="https://media1.tenor.com/m/WnU_v-bjh6IAAAAC/sebastian-built-different.gif" width="80%"></a>  
+  
+
+Este es el lugar donde, en teoría, comparto proyectos, exploro Inteligencia Artificial y Robótica, y sigo aprendiendo cada día  
 
 ---
 
@@ -14,8 +16,8 @@ Este es el lugar donde comparto proyectos, exploro Inteligencia Artificial y Rob
 **👨‍💻 Sobre mí**
 - 🎓 Estudiante de 5° año de **Ingeniería Civil Eléctrica** en la Universidad de Chile   
 - 🌎 Alto manejo del inglés, tanto escrito como oral  
-- 🤖 Apasionado por la **Robótica, la Inteligencia Artificial y la Programación**  
-- 📚 Motivado por desarrollar soluciones innovadoras con tecnología  
+- 🤖 Me gusta mucho por la **Robótica, la Inteligencia Artificial y la Programación**  
+- 📚 Motivado por desarrollar soluciones innovadoras con tecnología
 
 ---
 
