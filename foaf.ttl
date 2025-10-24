@@ -1,0 +1,33 @@
+@base <http://example.org/foaf/vergara.ttl> .  # TODO: reemplaza por la URL PÚBLICA (http://...) donde publicarás este archivo
+@prefix : <http://example.org/foaf/vergara.ttl#> .  # Se deriva de @base
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix social: <https://users.dcc.uchile.cl/~ahogan/social.ttl#> .
+
+<> a foaf:Document ;
+   dc:title "FOAF de Sebastián Vergara Garnham" ;
+   dc:creator <#vergara> ;
+   dc:created "2025-10-24"^^xsd:date .
+
+<#vergara> a foaf:Person ;
+  foaf:name "Sebastián Vergara Garnham" ;
+  foaf:age "23"^^xsd:integer ;                
+  foaf:img <https://cdn.jsdelivr.net/gh/Vergaraaa1/Vergaraaa1@main/Screenshot%202023-11-30%20002838.png> ;
+  foaf:homepage <https://www.linkedin.com/in/sebastian-vergara-garnham-6407032a6/> ; 
+  foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ,
+             <http://users.dcc.uchile.cl/~pmendoza/foaf.ttl#pm> ,
+             <https://raw.githubusercontent.com/juansebm/lab10_webofdata/main/foaf.ttl#juanvale> ,
+             <http://raw.githubusercontent.com/Marmaduke23/watos/refs/heads/main/foaf.ttl#jjj> ;
+  foaf:topic_interest dbr:Semantic_Web ,
+                      dbr:Machine_learning ,
+                      dbr:Graph_database ,
+                      dbr:Comics,
+                      dbr:Video_game;
+
+  social:hasSpiritAnimal dbr:American_crow ;
+  social:likesMovie dbr:The_Nightmare_Before_Christmas , dbr:Spider-Man_2 ;
+  social:hasFavouritePlatonicSolid dbr:Icosahedron ;
+  foaf:nick "Vergara" ;
+  foaf:gender "male" .
