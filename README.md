@@ -1,5 +1,5 @@
 ﻿### ¡Hola! 
-Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile.
+Soy **Sebastián Vergara**, estudiante de Ingeniería Civil Eléctrica y de Magister en Ciencia de Datos en la Universidad de Chile.
 
 <a href="https://www.uchile.cl/"><img src="https://media1.tenor.com/m/WnU_v-bjh6IAAAAC/sebastian-built-different.gif" width="80%"></a>  
   
